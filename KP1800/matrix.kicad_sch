@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "KP1800 Matrix")
-		(date "2025-03-19")
+		(date "2025-05-02")
 		(rev "0.1")
 	)
 	(lib_symbols
