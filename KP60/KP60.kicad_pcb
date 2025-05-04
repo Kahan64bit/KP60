@@ -7,6 +7,10 @@
 		(legacy_teardrops no)
 	)
 	(paper "A3")
+	(title_block
+		(title "KP60 PCB")
+		(date "2025-05-03")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)

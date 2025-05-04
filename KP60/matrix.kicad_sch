@@ -5,8 +5,8 @@
 	(uuid "b1c6f0de-f355-4608-a2ac-8b523ca16f39")
 	(paper "A4")
 	(title_block
-		(title "KP1800 Matrix")
-		(date "2025-05-02")
+		(title "KP60 Matrix")
+		(date "2025-05-03")
 		(rev "0.1")
 	)
 	(lib_symbols

@@ -5,8 +5,8 @@
 	(uuid "7108c105-5751-4eb7-aac4-6c879069d1a1")
 	(paper "A4")
 	(title_block
-		(title "KP1800 Keyboard PCB")
-		(date "2025-05-02")
+		(title "KP60 Keyboard PCB")
+		(date "2025-05-03")
 		(rev "0.1")
 	)
 	(lib_symbols
