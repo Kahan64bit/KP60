@@ -3638,10 +3638,6 @@
 		(uuid "f8b7b17c-d1e5-4a0a-a478-ba35b85ecc36")
 	)
 	(no_connect
-		(at 116.84 64.77)
-		(uuid "20e4f467-b15a-4aea-a264-b3a004040b48")
-	)
-	(no_connect
 		(at 83.82 77.47)
 		(uuid "42dac890-964d-4d78-99a2-099910458c93")
 	)
@@ -5067,6 +5063,28 @@
 		(uuid "cedd69f4-0421-4740-8dd0-b8e57e77f380")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 162.0376 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "A2"
+		(shape input)
+		(at 116.84 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d0c6c0bd-205b-41d7-a054-6ae0437b6f60")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 122.1233 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7955,6 +7973,44 @@
 			(project "KP60"
 				(path "/7108c105-5751-4eb7-aac4-6c879069d1a1"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 10.16 441.96)
+		(size 278.13 189.23)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "60f90378-12e5-41ca-8103-51ddadc398ba")
+		(property "Sheetname" "RGB"
+			(at 10.16 441.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RGB_sch.kicad_sch"
+			(at 10.16 631.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KP60"
+				(path "/7108c105-5751-4eb7-aac4-6c879069d1a1"
+					(page "3")
 				)
 			)
 		)
