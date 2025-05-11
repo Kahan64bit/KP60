@@ -7959,6 +7959,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 10.16 441.96)
+		(size 278.13 189.23)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "60f90378-12e5-41ca-8103-51ddadc398ba")
+		(property "Sheetname" "RGB"
+			(at 10.16 441.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RGB_sch.kicad_sch"
+			(at 10.16 631.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KP60"
+				(path "/7108c105-5751-4eb7-aac4-6c879069d1a1"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
