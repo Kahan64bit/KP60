@@ -42,6 +42,9 @@ PCB dimensions have been made to fit [Tofu60 Redux Case](https://kbdfans.com/pro
 ## Diode Matrix ✨
 ![Matrix](https://github.com/Kahan64bit/KP60/blob/main/KP60/Images/Keyboard_matrix.png)
 
+## LED Matrix ✨
+![LED](https://github.com/Kahan64bit/KP60/blob/main/KP60/Images/led%20matrix.png)
+
 ## PCB ✨
 ![PCB](https://github.com/Kahan64bit/KP60/blob/main/KP60/Images/Keyboard_PCB.png)
 
