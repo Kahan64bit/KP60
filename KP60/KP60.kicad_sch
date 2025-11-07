@@ -4554,6 +4554,17 @@
 		)
 		(uuid "f2d28107-c45a-438d-8ef3-b23f4c757ccc")
 	)
+	(label "CC2"
+		(at 204.47 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a95e566-79f1-49fa-8e91-1956a482720d")
+	)
 	(label "D-"
 		(at 124.46 87.63 0)
 		(fields_autoplaced yes)
@@ -4587,6 +4598,17 @@
 			(justify left bottom)
 		)
 		(uuid "b21b00c0-952c-43d5-9f5d-6c257b2f5a33")
+	)
+	(label "CC1"
+		(at 204.47 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c78abc05-758e-44bb-ab09-efa574e6a18a")
 	)
 	(global_label "D-"
 		(shape input)
