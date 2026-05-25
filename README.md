@@ -27,15 +27,6 @@ PCB dimensions have been made to fit [Tofu60 Redux Case](https://kbdfans.com/pro
 | Auxiliary            | ESD + Decoupling + Reset     |
 | Misc                 | 3V3 Regulator  |
 
-
-
-## Layout Support ✨
-
-- ANSI
-- ISO
-- HHKB-style (Split Backspace, Split Left Shift)
-- Tsangan bottom row support (with stepped Caps Lock)
-
 ## Schematic ✨
 ![Schematic](https://github.com/Kahan64bit/KP60/blob/main/KP60/Images/Keyboard_Schematic.png)
 
@@ -51,7 +42,7 @@ PCB dimensions have been made to fit [Tofu60 Redux Case](https://kbdfans.com/pro
 ## Render ✨
 Click **[Render](https://github.com/Kahan64bit/KP60/blob/main/KP60/Images/PCB_Render.gif)** to see 3D Render
 
-## 🔭 Roadmap ✨
+## 🔭 Roadmap ✨ (Will be added as a seperate macroboard)
 
 The KP60 project is actively evolving to support a broader range of features for keyboard customizers and enthusiasts. Here's a sneak peek at what’s coming in future versions:
 
@@ -70,9 +61,6 @@ The KP60 project is actively evolving to support a broader range of features for
   Optional encoder support for volume, media, and custom actions.
 
 ### 📦 Hardware Iteration Plans
-
-- **KP60 v0.2** — Minor optimizations, ESD tuning, silkscreen updates  
-- **KP60 v0.3** — Major revision with RGB, OLED, encoder footprints, and hot-swap support
 
 
 
